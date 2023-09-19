@@ -1,0 +1,122 @@
+
+[{
+  "name": "Alex",
+  "description": "meja, abu-abu toska, 132x58 cm",
+  "price": 126046,
+  "stock": 925,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/776/0977665_PE813728_S3.webp"
+}, {
+  "name": "VEBJÖRN",
+  "description": "Diagnostic agents",
+  "price": 191210,
+  "stock": 227,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/746/1174618_PE894559_S3.webp"
+}, {
+  "name": "MICKE",
+  "description": "meja kerja sudut, putih, 100x142 cm",
+  "price": 954999,
+  "stock": 763,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/343/0734328_PE739442_S3.webp"
+}, {
+  "name": "LOMMARP",
+  "description": "meja, krem muda, 90x54 cm",
+  "price": 321140,
+  "stock": 106,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/709/0770955_PE755649_S3.webp"
+}, {
+  "name": "HENMES",
+  "description": "meja, cokelat muda, 155x65 cm",
+  "price": 769828,
+  "stock": 348,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/360/0736009_PE740336_S3.webp"
+}, {
+  "name": "MALM",
+  "description": "meja dengan panel tarik, hitam-cokelat, 151x65 cm",
+  "price": 482931,
+  "stock": 548,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/359/0735977_PE740311_S3.webp"
+}, {
+  "name": "VITTSJÖ",
+  "description": "meja laptop, hitam-cokelat/kaca, 100x36 cm",
+  "price": 234715,
+  "stock": 257,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/360/0736023_PE740350_S3.webp"
+}, {
+  "name": "ADILS/LINNMON",
+  "description": "meja kerja sudut, hitam-cokelat, 100x142 cm",
+  "price": 270313,
+  "stock": 726,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/343/0734327_PE739443_S3.webp"
+}, {
+  "name": "Yucca",
+  "description": "daun meja, diwarnai putih efek kayu oak, 100x60 cm",
+  "price": 849938,
+  "stock": 619,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/891/0989117_PE818385_S3.webp"
+}, {
+  "name": "FJJALBO",
+  "description": "meja laptop, hitam, 100x36 cm",
+  "price": 913761,
+  "stock": 818,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/360/0736007_PE740334_S3.webp"
+}, {
+  "name": "MALMKUD",
+  "description": "lemari 6 laci, veneer kayu oak diwarnai putih, 160x78 cm",
+  "price": 608271,
+  "stock": 914,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/848/0484883_PE621346_S3.webp"
+}, {
+  "name": "TYSEDAL",
+  "description": "lemari 4 laci, putih, 87x76 cm",
+  "price": 114437,
+  "stock": 3,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/662/0366212_PE429460_S3.webp"
+}, {
+  "name": "KULLEN",
+  "description": "lemari 6 laci, putih, 80x123 cm",
+  "price": 357966,
+  "stock": 948,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/848/0484891_PE621335_S3.webp"
+}, {
+  "name": "LIDAS CHAIR",
+  "description": "kursi, hijau/Sefast dilapisi krom",
+  "price": 564820,
+  "stock": 979,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/063/1106338_PE868678_S3.webp"
+}, {
+  "name": "JANINGE WHITE CHAIR",
+  "description": "kursi dg sandaran lengan, putih",
+  "price": 682537,
+  "stock": 139,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/281/0728159_PE736126_S3.webp"
+}, {
+  "name": "NORMDYA BAMBOO CHAIR",
+  "description": "kursi bambu dengan sandaran",
+  "price": 267382,
+  "stock": 3,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/974/0497483_PE629162_S3.webp"
+}, {
+  "name": "TEODORS GREEN CHAIR",
+  "description": "Kursi mini dengan bahan berkualitas",
+  "price": 884119,
+  "stock": 130,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/142/1114283_PE871739_S3.webp"
+}, {
+  "name": "VADSO BLUE BED",
+  "description": "kasur empuk minimalis cocok untuk keluarga",
+  "price": 862253,
+  "stock": 377,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/777/1077760_PE856997_S3.webp"
+}, {
+  "name": "BED GROUND WHITE",
+  "description": "kasur busa dapat dipanjangkan, 80x200 cm",
+  "price": 638219,
+  "stock": 526,
+  "imgUrl": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/730/0873031_PE655557_S3.webp"
+}, {
+  "name": "WORKING PACKET",
+  "description": "Kombinasi meja , kursi , lemari serbaguna",
+  "price": 926208,
+  "stock": 973,
+  "imgUrl": "https://www.ikea.co.id/dairyfarm/id/images/303/1030307_PE836203_S4.jpg"
+}]
